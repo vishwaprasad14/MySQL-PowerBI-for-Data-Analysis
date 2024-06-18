@@ -2,6 +2,8 @@
 CREATE DATABASE IF NOT EXISTS Sales_data;
 USE sales_data;
 
+-- Loaded the data using Table Data Import Wizard option
+
 -- Select all records from the Sales table to verify the data load
 select * from sales_data.walmartsalesdata;
 
