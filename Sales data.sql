@@ -1,5 +1,5 @@
 -- Create the database if it does not exist
-CREATE DATABASE IF NOT EXISTS Sales_data;
+CREATE DATABASE IF NOT EXISTS sales_data;
 USE sales_data;
 
 -- Loaded the data using Table Data Import Wizard option
