@@ -1,13 +1,13 @@
 # MySQL-for-Data-Analysis
-# Walmart Sales Data
+## Walmart Sales Data
 
-This repository contains a dataset of sales transactions from Walmart. The dataset includes various details about each transaction such as the product line, unit price, quantity, total amount, date and time of purchase, customer details, and more.
+This dataset provides insights into Walmart's sales transactions. It includes various attributes related to the transactions, customer demographics, product categories, and financial metrics. This data can be used for various analyses, such as sales performance, customer behavior, product popularity, and financial analysis.
 
 ## Dataset Overview
 
 ### File
 
-- **WalmartSalesData.csv**: The main dataset file.
+ **WalmartSalesData.csv**: The main dataset file.
 
 ### Columns
 
@@ -29,8 +29,6 @@ This repository contains a dataset of sales transactions from Walmart. The datas
 16. **GrossIncome**: Gross income from the transaction.
 17. **Rating**: Customer rating of the transaction.
 
-## Dataset Description
 
-This dataset provides insights into Walmart's sales transactions. It includes various attributes related to the transactions, customer demographics, product categories, and financial metrics. This data can be used for various analyses, such as sales performance, customer behavior, product popularity, and financial analysis.
 
 
