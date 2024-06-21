@@ -1,4 +1,11 @@
 # MySQL-for-Data-Analysis
+Compilation of SQL - Power BI integration projects for Data Analytics, Business Intelligence and Data Visualizations.
+
+## Database, Database Tool and Visualization Tool
+- MySQL
+- MySQL Workbench
+- Power BI Desktop
+- 
 ## Walmart Sales Data
 
 This dataset provides insights into Walmart's sales transactions. It includes various attributes related to the transactions, customer demographics, product categories, and financial metrics. This data can be used for various analyses, such as sales performance, customer behavior, product popularity, and financial analysis.
