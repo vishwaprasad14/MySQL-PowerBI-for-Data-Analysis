@@ -1,7 +1,7 @@
 # MySQL-for-Data-Analysis
 SQL for Data Analytics and Business Intelligence 
 
-## Database, Database Tool and Visualization Tool
+## Database and Database Tool 
 - MySQL
 - MySQL Workbench
     
