@@ -1,11 +1,10 @@
 # MySQL-for-Data-Analysis
-Compilation of SQL - Power BI integration projects for Data Analytics, Business Intelligence and Data Visualizations.
+SQL for Data Analytics and Business Intelligence 
 
 ## Database, Database Tool and Visualization Tool
 - MySQL
 - MySQL Workbench
-- Power BI Desktop
-  
+    
 ## Walmart Sales Data
 
 This dataset provides insights into Walmart's sales transactions. It includes various attributes related to the transactions, customer demographics, product categories, and financial metrics. This data can be used for various analyses, such as sales performance, customer behavior, product popularity, and financial analysis.
@@ -42,7 +41,7 @@ SQL - MySQL for Data Analytics and Business Intelligence: data analysis and data
 ### Generic Question
 - How many unique cities does the data have?
 - In which city is each branch?
-### Product
+### Product Analysis
 - How many unique product lines does the data have?
 - What is the most common payment method?
 - What is the most selling product line?
@@ -55,12 +54,12 @@ SQL - MySQL for Data Analytics and Business Intelligence: data analysis and data
 - Which branch sold more products than average product sold?
 - What is the most common product line by gender?
 - What is the average rating of each product line?
-### Sales
+### Sales Analysis
 - Number of sales made in each time of the day per weekday
 - Which of the customer types brings the most revenue?
 - Which city has the largest tax percent/ VAT (Value Added Tax)?
 - Which customer type pays the most in VAT?
-### Customer
+### Customer Analysis
 - How many unique customer types does the data have?
 - How many unique payment methods does the data have?
 - What is the most common customer type?
