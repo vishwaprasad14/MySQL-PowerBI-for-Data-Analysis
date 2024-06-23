@@ -71,4 +71,6 @@ SQL - MySQL for Data Analytics and Business Intelligence: data analysis and data
 - Which day fo the week has the best avg ratings?
 - Which day of the week has the best average ratings per branch?
 
+### Data Visualizaton
+[Power_BI_Visualization](https://app.powerbi.com/view?r=eyJrIjoiYzYwYTNlOTktZmFkNi00ZmIwLTk4ZGEtM2Q1NWYzZmVlMWYwIiwidCI6ImZmNjM1MzY3LWJmYzUtNDQyMC1iZmU2LThhMWRkZWI0ZTVhZSJ9)
 
