@@ -1,9 +1,10 @@
 # MySQL-for-Data-Analysis
-SQL for Data Analytics and Business Intelligence 
+Compilation of SQL - Tableau integration projects for Data Analytics, Business Intelligence and Data Visualizations.
 
-## Database and Database Tool 
+## Database Database Tool and Data Visualization
 - MySQL
 - MySQL Workbench
+- Power BI
     
 ## Walmart Sales Data
 
