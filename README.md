@@ -1,7 +1,7 @@
 # MySQL and Power BI for Data Analysis
 Compilation of SQL - Power BI integration projects for Data Analytics, Business Intelligence and Data Visualizations.
 
-## Database Database Tool and Data Visualization
+## Database, Database Tool and Data Visualization
 - MySQL
 - MySQL Workbench
 - Power BI
