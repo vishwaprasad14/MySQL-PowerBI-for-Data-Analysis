@@ -76,5 +76,5 @@ SQL - MySQL for Data Analytics and Business Intelligence: data analysis and data
 [Power_BI_Visualization](https://app.powerbi.com/view?r=eyJrIjoiYjljNWViMTItMjY2NC00ZGQ0LTg2ZTMtNjA3OWI5ODFmYWZlIiwidCI6ImZmNjM1MzY3LWJmYzUtNDQyMC1iZmU2LThhMWRkZWI0ZTVhZSJ9)
 
 ![Walmart Sales Analysis]()
-![Walmart Product Analysis]()
+![Walmart Product Analysis](https://github.com/vishwaprasad14/MySQL-PowerBI-for-Data-Analysis/blob/main/MySQL%20for%20Data%20Analysis/Screenshots/Product_Analysis.png)
 ![Walmart Customer Analysis](https://github.com/vishwaprasad14/MySQL-PowerBI-for-Data-Analysis/blob/main/MySQL%20for%20Data%20Analysis/Screenshots/Customer_Analysis.png)
