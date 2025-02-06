@@ -37,7 +37,7 @@ This dataset provides insights into Walmart's sales transactions. It includes va
 18. **Rating**: Customer rating of the transaction.
 
 # Project
-SQL - MySQL for Data Analytics and Business Intelligence: data analysis and data visualizations for answering business related questions for improve Sale performance including,
+SQL - MySQL for Data Analytics and Business Intelligence: data analysis and data visualizations for answering business related questions for improve Sale performance.
 
 ### Generic Question
 - How many unique cities does the data have?
